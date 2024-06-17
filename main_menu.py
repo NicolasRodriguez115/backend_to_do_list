@@ -1,3 +1,4 @@
+# The `menu` function is the core of the To-Do List Application's user interface. It provides a command-line menu system that allows users to interact with the application.
 def menu():
     import os
     from add_task_menu import add_task_menu

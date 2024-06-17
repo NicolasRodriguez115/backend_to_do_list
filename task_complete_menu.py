@@ -1,4 +1,4 @@
-
+# The `task_complete_menu` function is a feature of the To-Do List Application that allows users to mark tasks as completed.
 def task_complete_menu():
     while True:
         from main import to_do_list

@@ -1,4 +1,4 @@
-
+# The `delete_task_menu` function is part of the To-Do List Application that enables users to remove tasks from their to-do list.
 def delete_task_menu():
     while True:
         from main import to_do_list
